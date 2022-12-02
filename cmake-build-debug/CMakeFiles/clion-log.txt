@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/TDM-GCC-32/bin/mingw32-make.exe -DCMAKE_C_COMPILER=C:/TDM-GCC-32/bin/gcc.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\Steph\Code DUR\projet C deuxieme année"
+CMake Error at CMakeLists.txt:8 (add_executable):
+  The target name "projet_C_deuxieme_annï¿½e" is reserved or not valid for
+  certain CMake features, such as generator expressions, and may result in
+  undefined behavior.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Steph/Code DUR/projet C deuxieme annÃ©e/cmake-build-debug/CMakeFiles/CMakeOutput.log".
