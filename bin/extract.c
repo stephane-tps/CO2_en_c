@@ -13,7 +13,7 @@ int main(void)
     curl = curl_easy_init();
     if(curl) {
         curl_easy_setopt(curl, CURLOPT_URL, "https://www.example.com/page-web");
-        res = curl_easy_perform(curl);
+        res = curl_easy_perform(curl); //res est une variable de type CURLcode qui stocke le résultat de l'opération cURL.
         if(res != CURLE_OK) {
             fprintf(stderr, "Erreur lors de la récupération de la page web : %s\n",
                     curl_easy_strerror(res));
