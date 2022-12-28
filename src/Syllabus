@@ -67,3 +67,14 @@ Nous souhaitons créer un logiciel permettant de calculer les émissions de carb
                     - Comparaison avec d'autres utilisateurs
                     - Astuces et conseils pour polluer moins
                     - Équivalents de pollution plus parlants
+
+
+                    - un dossier bin pour les exécutables ;
+                    - un dossier lib pour les dépendances ;
+                    - un dossier include pour les fichiers d'en-têtes de la bibliothèque ;
+                    - un dossier src pour les sources (.cpp et .h) ;
+                    - un dossier doc pour la documentation ;
+                    - un fichier Makefile/CMake/de projet pour compiler ;
+                    - un README ;
+                    - un fichier INSTALL décrivant la procédure d’installation ;
+                    - un dossier datafile/ressources pour tous les fichiers sons/images.
