@@ -72,7 +72,7 @@ Nous souhaitons créer un logiciel permettant de calculer les émissions de carb
                     - un dossier bin pour les exécutables ;
                     - un dossier lib pour les dépendances ;
                     - un dossier include pour les fichiers d'en-têtes de la bibliothèque ;
-                    - un dossier src pour les sources (.cpp et .h) ;
+                    - un dossier src pour les sources (.c et .h) ;
                     - un dossier doc pour la documentation ;
                     - un fichier Makefile/CMake/de projet pour compiler ;
                     - un README ;
