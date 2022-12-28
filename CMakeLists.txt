@@ -7,3 +7,7 @@ include_directories(include)
 
 add_executable(projet_C_deuxieme_ann�e
         include/main.c)
+
+
+#trouver une façon d'installer curl directement avec un fichier de dependace
+#telecharger dés le debut
